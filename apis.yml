@@ -1,7 +1,12 @@
 aid: costco
-url: https://raw.githubusercontent.com/api-evangelist/costco/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/costco/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.costco.com
+description: >-
+  Costco Wholesale is a multinational membership-only big-box retail corporation that
+  operates a chain of warehouse clubs offering a wide selection of merchandise at
+  discounted prices.
