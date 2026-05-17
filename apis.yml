@@ -1,6 +1,6 @@
 aid: costco
 name: Costco Wholesale
-x-type: company
+kind: company
 description: >-
   Costco Wholesale Corporation is a Fortune 500 American multinational
   membership-only big-box retail chain that operates warehouse clubs offering
