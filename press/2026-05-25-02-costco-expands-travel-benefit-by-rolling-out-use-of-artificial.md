@@ -1,7 +1,9 @@
 ---
 title: Costco expands travel benefit by rolling out use of artificial ...
 url: https://www.foxnews.com/travel/costco-expands-travel-benefit-rolling-out-artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Costco" press release artificial intelligence'
 position: 2
 source: serpapi-google

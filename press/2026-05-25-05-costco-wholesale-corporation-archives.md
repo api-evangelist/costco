@@ -1,7 +1,9 @@
 ---
 title: Costco Wholesale Corporation Archives
 url: https://coresight.com/coresight_100_type/costco-wholesale-corporation/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Costco" press release artificial intelligence'
 position: 5
 source: serpapi-google
