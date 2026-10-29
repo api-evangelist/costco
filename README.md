@@ -1,4 +1,4 @@
-# Costco Wholesale (costco)
+# Costco Wholesale
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,44 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Costco Wholesale Corporation is a Fortune 500 American multinational membership-only big-box retail chain that operates warehouse clubs offering merchandise at discounted prices. Costco does not publish a public developer API; supplier and trading-partner integrations are conducted through EDI and the Costco Supplier Portal.
+Costco Wholesale Corporation is a Fortune 500 American multinational membership-only big-box retail chain that operates warehouse clubs offering a wide selection of merchandise at discounted prices. Costco does not publish a public developer API; supplier and trading partner integrations are conducted through EDI and B2B channels using ANSI X12 transactions and the Costco Supplier Portal. Costco operates an e-commerce site, the Costco Travel and Costco Pharmacy properties, and the Costco Photo Center.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/costco/refs/heads/main/apis.yml)
+**Areas:** B2B · Big-Box · E-Commerce · EDI · Fortune 500 · Grocery · Membership · Pharmacy · Retail · Supplier Portal · Travel · Warehouse Club
 
-## Scope
+## Costco Wholesale on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Internal
-- **x-type:** company
+Everything profiled for Costco Wholesale is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/costco/](https://apis.io/providers/costco/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- B2B, Big-Box, E-commerce, EDI, Fortune 500, Grocery, Membership, Pharmacy, Retail, Supplier Portal, Travel, Warehouse Club, Wholesale
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Costco Domain Security](https://apis.io/security/costco/costco-domain-security/)
 
-No public APIs have been documented. Costco partner integrations are handled via EDI and the Supplier Portal.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.costco.com/)
-- [About Us](https://www.costco.com/about.html)
-- [Investor Relations](https://investor.costco.com/)
-- [Supplier Portal](https://www.costco.com/supplier-portal.html)
-- [Vendor Inquiries](https://www.costco.com/vendor-inquiries.html)
-- [Sustainability](https://www.costco.com/sustainability.html)
-- [Careers](https://www.costco.com/jobs.html)
-- [Pharmacy](https://www.costco.com/pharmacy)
-- [Travel](https://www.costcotravel.com/)
-- [LinkedIn](https://www.linkedin.com/company/costco-wholesale)
+- [Privacy policy](https://www.costco.com/privacy-policy-information.html)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 4.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/costco/](https://apis.io/providers/costco/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Costco Wholesale: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/costco/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
